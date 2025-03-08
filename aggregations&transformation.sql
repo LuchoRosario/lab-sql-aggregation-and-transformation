@@ -2,7 +2,7 @@ USE sakila;
 
 -- CHALLENGE 1
 
--- 1.1.
+-- 1.1 .
 
 SELECT MIN(length) AS min_duration,
  MAX(length) AS max_duration 
